@@ -34,3 +34,7 @@ Note: iOS 10 will install as a secondary OS instead of overwriting the default i
 
 ### Screenshots
 To be added
+
+### Testers
+- emeraldsucksss (Me)
+- rhapsody2612 [(@bfdia6ispeak on Twitter)](https://x.com/bfdia6ispeak)
